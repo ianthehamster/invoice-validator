@@ -1,0 +1,23 @@
+[
+  {
+    "invoice_number": "INV-001",
+    "supplier_id": "SUP-001",
+    "subtotal": 1000,
+    "tax": 200,
+    "total": 1200
+  },
+  {
+    "invoice_number": "INV-002",
+    "supplier_id": "SUP-002",
+    "subtotal": 500,
+    "tax": 100,
+    "total": 700
+  },
+  {
+    "invoice_number": "INV-001",
+    "supplier_id": "SUP-001",
+    "subtotal": 1000,
+    "tax": 200,
+    "total": 1200
+  }
+]
